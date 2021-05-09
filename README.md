@@ -1,2 +1,2 @@
-# Derecho-Romano-
-Cuadro comparativo sobre el derecho romano.
+# Derecho-Romano
+Cuadro comparativo entre el derecho actual y el derecho romano
